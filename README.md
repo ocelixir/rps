@@ -27,24 +27,22 @@ Launch a command-line console and to the following:
 
 1.  **[Install Elixir](http://elixir-lang.org/install.html)** if you haven't
     already.
-
 1.  Go to your Elixir projects working directory.
 1.  Clone this project and go into its directory:
-
-      ```bash
+```bash
 git clone git@github.com:ocelixir/rps.git
 cd rps
 ```
 
-1.  Retrieve and compile the dependencies:
+## Running the Tests
+
+Retrieve and compile the dependencies:
 
 ```bash
 mix deps.clean
 mix deps.get
 mix deps.compile
 ```
-
-## Running the Tests
 
 Here's the line you'll be running over and over while implementing the
 exercise:
