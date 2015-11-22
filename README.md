@@ -14,7 +14,7 @@ The exercise is designed to flex your Elixir muscles as follows:
 
    It's your choice!  Choose more than one!
 
-2.  Practice *test-driven development (TDD)* using       **[ex_doc](https://github.com/elixir-lang/ex_doc/blob/master/README.md)**.
+2.  Practice *test-driven development (TDD)* using       **[ex_doc](http://elixir-lang.org/getting-started/mix-otp/docs-tests-and-pipelines.html#doctests)**.
    Your tests are specified right in your function's comment; just
    implement more functionality for each test, and watch the tests start
    passing one-by-one.  It's a fun way to practice programming in Elixir!
