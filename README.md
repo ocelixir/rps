@@ -36,14 +36,6 @@ cd rps
 
 ## Running the Tests
 
-Retrieve and compile the dependencies:
-
-```bash
-mix deps.clean
-mix deps.get
-mix deps.compile
-```
-
 Here's the line you'll be running over and over while implementing the
 exercise:
 
